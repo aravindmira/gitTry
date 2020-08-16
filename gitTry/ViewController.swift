@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         print("hello git")
         print("change 2")
+        print("remote")
     }
 
 
